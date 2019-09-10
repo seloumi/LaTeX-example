@@ -1,5 +1,7 @@
 # LaTeX-example
-
+هذه امثلة مأخوذة من مجموعة 
+[محبي لاتكس](https://www.facebook.com/groups/latex.fans/)
+على الفايسبوك
 ## Example-1
 
 ```latex
