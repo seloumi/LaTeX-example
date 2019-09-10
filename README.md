@@ -45,4 +45,4 @@ text text text text text text text text text text text text text text text text 
 \end{document}
 ```
 
-![](Images/Caputure1.JPG)
+![](https://github.com/seloumi/LaTeX-example/blob/master/Images/Capture1.JPG)
