@@ -45,4 +45,4 @@ text text text text text text text text text text text text text text text text 
 \end{document}
 ```
 
-[](Caputure1.JPG?raw=true "")
+![](Images/Caputure1.JPG)
