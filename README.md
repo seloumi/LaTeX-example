@@ -1,4 +1,4 @@
-# LaTeX-example
+﻿# LaTeX-example
 هذه امثلة مأخوذة من مجموعة 
 [محبي لاتكس](https://www.facebook.com/groups/latex.fans/)
 على الفايسبوك
@@ -44,3 +44,5 @@ text text text text text text text text text text text text text text text text 
 \end{theo}
 \end{document}
 ```
+
+[](Caputure1.JPG?raw=true "")
